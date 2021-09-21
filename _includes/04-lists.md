@@ -1,4 +1,4 @@
-Coding
-Cricket
-Football
-Reading
+- Coding
+- Football
+- Cricket
+- Reading
